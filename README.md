@@ -36,5 +36,5 @@
 ### Tensorflow object detection API
    创建精确的机器学习模型，能够在单一图像中定位和识别多个目标，仍然是计算机视觉的核心挑战。TensorFlow对象检测API是一个开源框架。TensorFlow使得构建、训练和部署对象检测模型变得容易。
 ### Matplotlib 
-  Matplotlib是一个Python 2D绘图库，可以跨平台生成各种硬拷贝格式和交互式环境的出版品质量图。Matplotlib可用于Python脚本，Python和IPythonshell，jupyter笔记本，Web应用程序服务器和四个图形用户界面工具包。通过 Matplotlib，开发者可以仅需要几行代码，便可以生成绘图，直方图，功率谱，条形图，错误图，散点图等。
-<img src="https://user-images.githubusercontent.com/40875695/148148283-c0f14a3e-17d6-4f13-9970-243da0e7a017.png" width="500px">
+  Matplotlib是一个Python 2D绘图库，可以跨平台生成各种硬拷贝格式和交互式环境的出版品质量图。Matplotlib可用于Python脚本，Python和IPythonshell，jupyter笔记本，Web应用程序服务器和四个图形用户界面工具包。通过 Matplotlib，开发者可以仅需要几行代码，便可以生成绘图，直方图，功率谱，条形图，错误图，散点图等。<br>
+<img src="https://user-images.githubusercontent.com/40875695/148148283-c0f14a3e-17d6-4f13-9970-243da0e7a017.png" width="300px">
